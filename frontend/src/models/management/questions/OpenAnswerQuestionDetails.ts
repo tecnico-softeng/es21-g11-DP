@@ -16,7 +16,7 @@ export default class OpenAnswerQuestionDetails extends QuestionDetails {
   }
 
   getCorrectAnswer() {
-    return correctAnswer;
+    return this.correctAnswer;
   }
 
   setAsNew(): void {}
