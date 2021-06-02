@@ -1,0 +1,10 @@
+.idea
+.mvn
+.DS_Store
+
+scripts
+
+backend/src/main/resources/static/images/questions/
+data/
+frontend/cypress.env.json
+backend/package-lock.json
